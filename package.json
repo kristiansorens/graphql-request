@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@types/fetch-mock": "5.12.2",
-    "@types/node": "8.5.5",
+    "@types/node": "8.10.24",
     "ava": "0.25.0",
     "bundlesize": "0.17.0",
     "fetch-mock": "5.13.1",
